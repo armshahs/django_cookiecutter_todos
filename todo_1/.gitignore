@@ -275,5 +275,6 @@ todo_1/media/
 
 .pytest_cache/
 .env
+.envs
 .envs/*
-!.envs/.local/
+# !.envs/.local/
